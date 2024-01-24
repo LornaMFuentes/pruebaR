@@ -37,7 +37,7 @@ public class Bienvenida extends JFrame implements ActionListener{
 		a1.setBounds(25,15,300,150);
 		add(a1);
 		
-		b2 = new JLabel ("Sistema de control vacacional");
+		b2 = new JLabel ("Sistema de control vacacional de emple");
 		b2.setBounds(35,135,300,30); 
 		
 		/*Cambiamos tipografia de letra asi:
